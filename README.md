@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Briar-CatHei
-- 👀 I’m interested in Genshin Impact
-- 🌱 I’m currently learning something about Windows 11
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Briar CatHei, cname LxhBenMeow, 21, a Cat Spirit
+- Windows Insider since June 29th, 2021 (The first used build was 22000.51)
+- Genshin Impact Player with the new iPhone called "iPhone 11" since the February, 2021
+- Luoxiaohei Kernel,Genshin Impact Container, Windows 11 Version 22H2 Moment 4 Shell
+- Lang:zh-cn en-us
 
 <!---
 Briar-CatHei/Briar-CatHei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
