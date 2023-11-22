@@ -6,7 +6,7 @@
 - Lang: zh-cn en-us
 
 ## Uids Status
-| Semester | Era            | uid(en-us)    | uid(zh-cn)     | channel | status |
+| Semester | Era            | Uid(en-us)    | Uid(zh-cn)     | Channel | Status |
 |----------|----------------|---------------|----------------|---------|--------|
 | 1909     | Daqiao-Era     | Briar         | Briar熊大      | LTSC    | EOL    |
 | 21H1     | Daqiao-Era     | BriarHei      | 是熊大亦是小黑 | SAC     | EOL    |
