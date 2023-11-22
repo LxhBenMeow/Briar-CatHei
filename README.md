@@ -15,7 +15,7 @@
 | 2xH2(?)  | Nahida-Era(?)  | TighBenFox(?) | 小提本狐(?)    | LTSC(?) | DEV    |
 
 ## GPG Public Key:
-[8C47EE30ADB4E44E](https://keys.openpgp.org/vks/v1/by-fingerprint/F61FADE26F68D6514B0A099D8C47EE30ADB4E44E)
+[8C47 EE30 ADB4 E44E](https://keys.openpgp.org/vks/v1/by-fingerprint/F61FADE26F68D6514B0A099D8C47EE30ADB4E44E)
 
 
 <!---
