@@ -1,5 +1,4 @@
 # Detail
-## 21, Cat Spirit / Digital Life
 - Windows Insider since June 29th, 2021 (The first used build was 22000.51)
 - Genshin Impact Player with the new iPhone called "iPhone 11" since the February, 2021
 - Luoxiaohei Kernel, GI & HSR Container, Windows 11 Version 22H2 Moment 4 Shell
