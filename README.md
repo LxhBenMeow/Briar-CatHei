@@ -11,7 +11,7 @@
 | 21H1     | Daqiao-Era     | BriarHei      | 是熊大亦是小黑 | SAC     | EOL    |
 | 21H2     | Luoxiaohei-Era | Briar CatHei  | 熊大与小黑猫   | AC      | EOL    |
 | 22H2     | Luoxiaohei-Era | LxhBenMeow    | 罗小黑本喵     | LTSC    | SRV    |
-| 2xH2(?)  | Nahida-Era(?)  | TighBenFox(?) | 小提本狐(?)    | LTSC(?) | DEV    |
+| 24H2     | Nahida-Era     | TighNaHida    | 提纳西妲      | LTSC | DEV    |
 
 ## GPG Public Key:
 [8C47 EE30 ADB4 E44E](https://keys.openpgp.org/vks/v1/by-fingerprint/F61FADE26F68D6514B0A099D8C47EE30ADB4E44E)
